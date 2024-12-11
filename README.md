@@ -83,6 +83,6 @@ https://imgur.com/a/rYu3Unt
 - **Keep your configuration file secure**—leaking sensitive data like tokens, private keys, or API keys may compromise your account or bot.  
 - **Using selfbots violates Discord's Terms of Service.** Use responsibly and at your own risk.  
 
-  **Contact:** `soul_dev.07(1207085169144766536)`  
+  **Contact:** `soul_dev.py(1207085169144766536)`  
 
 > **To use VC-Commands you must download wavelink
